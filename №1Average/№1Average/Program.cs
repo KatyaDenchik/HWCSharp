@@ -10,17 +10,6 @@ namespace Average
 
         private static void Main(string[] args)
         {
-            //double firstnumber, secondnumber, average;
-
-            //Console.WriteLine("Введите первое число: ");
-            //firstnumber = GetNumber();
-
-            //Console.WriteLine("Введите второе число: ");
-            //secondnumber = GetNumber();
-
-            //average = (firstnumber + secondnumber) / 2;
-            //Console.WriteLine($"Среднее арифметическое числа {firstnumber} и числа {secondnumber} будет равняться: {average}");
-
             double sum = 0, countNumbers = 0;
             while (true)
             {
@@ -32,7 +21,6 @@ namespace Average
                     break;
                 }
 
-               
                 sum += GetNumber(input);
                 countNumbers++;
 
@@ -51,20 +39,22 @@ namespace Average
 
         public static double GetNumber(string input)
         {
-            //var answer = Console.ReadLine();
-            bool result = double.TryParse(input, out var number);
-
-            if (result) return number;
-
-            else
+            double number = 0;
+            bool isValidNumber = false;
+            do
             {
-                //if (answer == "ответ")
-                //{
-                //    Console.WriteLine("ураааа");
-                //}
-                Console.WriteLine("Было введено не число. Введите число");
-                return GetNumber(input);
-            }
+                bool result = double.TryParse(input, out number);
+
+                if (result) isValidNumber = true;
+
+                else
+                {
+                    Console.WriteLine("Было введено не число.");
+                    Console.Write("Введите число (для выхода введите \"ответ\"): ");
+                    input = Console.ReadLine();
+                }
+            } while (!isValidNumber);
+            return number;
         }
     }
 }

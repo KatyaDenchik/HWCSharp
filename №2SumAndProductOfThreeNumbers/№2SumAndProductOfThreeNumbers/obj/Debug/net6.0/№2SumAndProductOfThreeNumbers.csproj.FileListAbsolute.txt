@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\bin\Debug\net6.0\№2SumAndProductOfThreeNumbers.exe
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\bin\Debug\net6.0\№2SumAndProductOfThreeNumbers.deps.json
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\bin\Debug\net6.0\№2SumAndProductOfThreeNumbers.runtimeconfig.json
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\bin\Debug\net6.0\№2SumAndProductOfThreeNumbers.dll
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\bin\Debug\net6.0\№2SumAndProductOfThreeNumbers.pdb
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.dll
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\refint\№2SumAndProductOfThreeNumbers.dll
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.pdb
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\№2SumAndProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\User\Documents\HWCSharp\№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers\obj\Debug\net6.0\ref\№2SumAndProductOfThreeNumbers.dll

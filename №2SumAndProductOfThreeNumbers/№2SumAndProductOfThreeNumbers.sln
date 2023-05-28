@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№2SumAndProductOfThreeNumbers", "№2SumAndProductOfThreeNumbers\№2SumAndProductOfThreeNumbers.csproj", "{A5F00F88-1FD9-46F6-86A9-AE9575B81047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F00F88-1FD9-46F6-86A9-AE9575B81047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F00F88-1FD9-46F6-86A9-AE9575B81047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F00F88-1FD9-46F6-86A9-AE9575B81047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F00F88-1FD9-46F6-86A9-AE9575B81047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0BEFFB-5B7A-4E1D-A4F0-E78B7E28B7A5}
+	EndGlobalSection
+EndGlobal

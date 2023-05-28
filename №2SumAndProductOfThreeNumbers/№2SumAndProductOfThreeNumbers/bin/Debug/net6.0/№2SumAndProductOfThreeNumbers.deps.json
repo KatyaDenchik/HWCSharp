@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "№2SumAndProductOfThreeNumbers/1.0.0": {
+        "runtime": {
+          "№2SumAndProductOfThreeNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "№2SumAndProductOfThreeNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

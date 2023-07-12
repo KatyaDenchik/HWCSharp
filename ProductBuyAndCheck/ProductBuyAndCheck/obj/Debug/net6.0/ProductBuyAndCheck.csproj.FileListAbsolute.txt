@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\bin\Debug\net6.0\ProductBuyAndCheck.exe
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\bin\Debug\net6.0\ProductBuyAndCheck.deps.json
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\bin\Debug\net6.0\ProductBuyAndCheck.runtimeconfig.json
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\bin\Debug\net6.0\ProductBuyAndCheck.dll
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\bin\Debug\net6.0\ProductBuyAndCheck.pdb
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.AssemblyInfo.cs
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.dll
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\refint\ProductBuyAndCheck.dll
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.pdb
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ProductBuyAndCheck.genruntimeconfig.cache
+C:\Users\User\Documents\HWCSharp\ProductBuyAndCheck\ProductBuyAndCheck\obj\Debug\net6.0\ref\ProductBuyAndCheck.dll

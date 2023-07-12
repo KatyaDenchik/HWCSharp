@@ -1,0 +1,17 @@
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\FunCalculator.exe
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\FunCalculator.deps.json
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\FunCalculator.runtimeconfig.json
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\FunCalculator.dll
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\FunCalculator.pdb
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\bin\Debug\net6.0\NCalc.dll
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.AssemblyInfo.cs
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.csproj.CopyComplete
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.dll
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\refint\FunCalculator.dll
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.pdb
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\FunCalculator.genruntimeconfig.cache
+C:\Users\User\Documents\HWCSharp\FunCalculator\FunCalculator\obj\Debug\net6.0\ref\FunCalculator.dll

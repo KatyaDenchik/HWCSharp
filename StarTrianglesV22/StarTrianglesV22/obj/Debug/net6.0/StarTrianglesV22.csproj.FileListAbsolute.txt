@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\bin\Debug\net6.0\StarTrianglesV22.exe
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\bin\Debug\net6.0\StarTrianglesV22.deps.json
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\bin\Debug\net6.0\StarTrianglesV22.runtimeconfig.json
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\bin\Debug\net6.0\StarTrianglesV22.dll
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\bin\Debug\net6.0\StarTrianglesV22.pdb
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.AssemblyInfo.cs
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.dll
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\refint\StarTrianglesV22.dll
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.pdb
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\StarTrianglesV22.genruntimeconfig.cache
+C:\Users\User\Documents\HWCSharp\StarTrianglesV22\StarTrianglesV22\obj\Debug\net6.0\ref\StarTrianglesV22.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\bin\Debug\net6.0\NumberOfEvenAndOddNumbers.exe
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\bin\Debug\net6.0\NumberOfEvenAndOddNumbers.deps.json
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\bin\Debug\net6.0\NumberOfEvenAndOddNumbers.runtimeconfig.json
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\bin\Debug\net6.0\NumberOfEvenAndOddNumbers.dll
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\bin\Debug\net6.0\NumberOfEvenAndOddNumbers.pdb
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.dll
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\refint\NumberOfEvenAndOddNumbers.dll
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.pdb
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\NumberOfEvenAndOddNumbers.genruntimeconfig.cache
+C:\Users\User\Documents\HWCSharp\NumberOfEvenAndOddNumbers\NumberOfEvenAndOddNumbers\obj\Debug\net6.0\ref\NumberOfEvenAndOddNumbers.dll
